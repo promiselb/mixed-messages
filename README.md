@@ -28,8 +28,10 @@ A fun JavaScript project that generates random, quirky messages using a cast of 
 - `README.md` – Project documentation
 
 ## Example Output
+```
 $ node ./index.js
 Granny Byte (A goldfish philosopher with deep thoughts from inside a bowl.):
 - I tried to blend in with humans by wearing pants.
 - I still don’t get them.
 - But at least I got a free fish dinner.
+```
